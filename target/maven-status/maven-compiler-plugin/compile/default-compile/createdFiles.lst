@@ -1,0 +1,9 @@
+com/demo/microservice/config/OpenAPIConfig.class
+com/demo/microservice/dto/KpiClienteDTO.class
+com/demo/microservice/MicroserviceApplication.class
+com/demo/microservice/dto/ClienteDTO.class
+com/demo/microservice/model/Cliente.class
+com/demo/microservice/serviceImpl/ClienteServiceImpl.class
+com/demo/microservice/controller/ClienteController.class
+com/demo/microservice/service/ClienteService.class
+com/demo/microservice/config/FirebaseConfig.class

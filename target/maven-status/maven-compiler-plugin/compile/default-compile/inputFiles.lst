@@ -1,0 +1,9 @@
+/home/juanpa/Documentos/Proyectos/microservice/src/main/java/com/demo/microservice/MicroserviceApplication.java
+/home/juanpa/Documentos/Proyectos/microservice/src/main/java/com/demo/microservice/config/FirebaseConfig.java
+/home/juanpa/Documentos/Proyectos/microservice/src/main/java/com/demo/microservice/config/OpenAPIConfig.java
+/home/juanpa/Documentos/Proyectos/microservice/src/main/java/com/demo/microservice/controller/ClienteController.java
+/home/juanpa/Documentos/Proyectos/microservice/src/main/java/com/demo/microservice/dto/ClienteDTO.java
+/home/juanpa/Documentos/Proyectos/microservice/src/main/java/com/demo/microservice/dto/KpiClienteDTO.java
+/home/juanpa/Documentos/Proyectos/microservice/src/main/java/com/demo/microservice/model/Cliente.java
+/home/juanpa/Documentos/Proyectos/microservice/src/main/java/com/demo/microservice/service/ClienteService.java
+/home/juanpa/Documentos/Proyectos/microservice/src/main/java/com/demo/microservice/serviceImpl/ClienteServiceImpl.java
